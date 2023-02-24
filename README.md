@@ -8,7 +8,8 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="" alt="project-screenshot" width="400" height="400/">
+<img src=![home](https://user-images.githubusercontent.com/75511608/221228327-60d3a862-179d-4e7b-8855-ed2f1c596344.png)
+ alt="project-screenshot" width="400" height="400/">
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -42,3 +43,5 @@ Technologies used in the project:
 
 *   React
 *   This webapp uses api https://www.themoviedb.org/ for fetching api
+*   React crousal for making crousal
+*   React skeleton for making skeleton while page loading
