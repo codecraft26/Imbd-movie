@@ -7,6 +7,7 @@
 [https://imbd-movie.vercel.app/](https://imbd-movie.vercel.app/)
 
 <h2>Project Screenshots:</h2>
+![home](https://user-images.githubusercontent.com/75511608/221228505-f535dea2-80d9-4ce7-a5b2-63b0bb185d18.png)
 
 <img src=![home](https://user-images.githubusercontent.com/75511608/221228327-60d3a862-179d-4e7b-8855-ed2f1c596344.png)
  alt="project-screenshot" width="400" height="400/">
