@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/imdb-app-aman/static/css/main.262a10fc.css",
+    "main.js": "/imdb-app-aman/static/js/main.c8c2cba4.js",
+    "static/js/787.dfba6593.chunk.js": "/imdb-app-aman/static/js/787.dfba6593.chunk.js",
+    "index.html": "/imdb-app-aman/index.html",
+    "main.262a10fc.css.map": "/imdb-app-aman/static/css/main.262a10fc.css.map",
+    "main.c8c2cba4.js.map": "/imdb-app-aman/static/js/main.c8c2cba4.js.map",
+    "787.dfba6593.chunk.js.map": "/imdb-app-aman/static/js/787.dfba6593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.262a10fc.css",
+    "static/js/main.c8c2cba4.js"
+  ]
+}
